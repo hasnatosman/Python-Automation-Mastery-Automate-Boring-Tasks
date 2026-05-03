@@ -1,0 +1,6 @@
+Hello, World!
+This is a simple text file.
+Python makes file handling a lot easier.
+Looks great.
+
+This line appended now.
